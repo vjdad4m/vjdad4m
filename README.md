@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @vjdad4m
-- 👀 I’m interested in cryptocurrencies
-- 🌱 I’m currently learning python development and AI
-- 😎 Noteable projects: Bruhcoin, askr
+- 👋 Hi, my name is Adam Vajda, I am a programmer from Hungary 🇭🇺.
+- 👀 Noteable projects: OIL, Bruhcoin.
 
 <!---
 vjdad4m/vjdad4m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
